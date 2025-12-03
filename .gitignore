@@ -1,0 +1,25 @@
+# ---- Python / Django ----
+backend/venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+.env
+media/
+
+# ---- React Native ----
+mobile/node_modules/
+mobile/.expo/
+mobile/.expo-shared/
+mobile/android/app/build/
+mobile/ios/Pods/
+*.keystore
+
+# ---- OS files ----
+.DS_Store
+Thumbs.db
+
+# ---- IDE files ----
+.vscode/
+.idea/
